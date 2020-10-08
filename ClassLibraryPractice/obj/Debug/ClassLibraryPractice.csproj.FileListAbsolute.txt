@@ -1,6 +1,0 @@
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.dll
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.pdb
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csprojAssemblyReference.cache
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.CoreCompileInputs.cache
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.dll
-C:\Users\Tejas Naik\OneDrive\Learning\GitHub\CSharpLesonsTejas\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.pdb
