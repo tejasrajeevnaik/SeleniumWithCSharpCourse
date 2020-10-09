@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{609794FC-5089-4F1C-BB59-A657556376C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{609794FC-5089-4F1C-BB59-A657556376C2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section2", "Section2", "{BBB20900-18D3-4CC4-906F-088AE1B66883}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section2_Section3", "Section2_Section3", "{BBB20900-18D3-4CC4-906F-088AE1B66883}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryPractice", "ClassLibraryPractice\ClassLibraryPractice.csproj", "{5C93F3F7-26F9-425E-A12D-2E5D8A417611}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryTest", "ClassLibraryTest\ClassLibraryTest.csproj", "{EF739081-2475-44B5-BF8A-4F161C5A37BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section4", "Section4", "{D7E04DE4-107C-4D2A-9B9F-F18E510FEDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{FB879496-6AC9-4868-AFA8-3BC8973B7918}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +33,10 @@ Global
 		{EF739081-2475-44B5-BF8A-4F161C5A37BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF739081-2475-44B5-BF8A-4F161C5A37BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF739081-2475-44B5-BF8A-4F161C5A37BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB879496-6AC9-4868-AFA8-3BC8973B7918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB879496-6AC9-4868-AFA8-3BC8973B7918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB879496-6AC9-4868-AFA8-3BC8973B7918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB879496-6AC9-4868-AFA8-3BC8973B7918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5C93F3F7-26F9-425E-A12D-2E5D8A417611} = {BBB20900-18D3-4CC4-906F-088AE1B66883}
 		{EF739081-2475-44B5-BF8A-4F161C5A37BC} = {BBB20900-18D3-4CC4-906F-088AE1B66883}
+		{FB879496-6AC9-4868-AFA8-3BC8973B7918} = {D7E04DE4-107C-4D2A-9B9F-F18E510FEDFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {34EF646D-18BB-4E82-9BB2-5C8B907CB55D}
