@@ -38,5 +38,12 @@ namespace Methods1
             number = 10;
             number = number * 2;
         }
+
+        public static void ArrayTest(int[] scores)
+        {
+            scores[1] = 10;
+            scores[2] = 20;
+            scores[3] = 30;
+        }
     }
 }

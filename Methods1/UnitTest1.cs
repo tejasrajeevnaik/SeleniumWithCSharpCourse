@@ -45,5 +45,14 @@ namespace Methods1
             MathHelper.MethodOut(out number1);
             Console.WriteLine(number1);
         }
+
+        [TestMethod]
+        public void Test_ArrayPassing()
+        {
+            int[] scores = { 0, 1, 2, 3 };
+            MathHelper.ArrayTest(scores);
+
+            Console.WriteLine(scores);
+        }
     }
 }
