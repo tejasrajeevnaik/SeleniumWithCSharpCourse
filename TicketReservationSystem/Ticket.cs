@@ -12,7 +12,7 @@ namespace TicketReservationSystem
         private decimal ticketPrice;
 
         // Constructor
-        public Ticket(int ticketId_C, decimal ticketPrice_C, TicketCategoryType ticketCategory_C)
+        protected Ticket(int ticketId_C, decimal ticketPrice_C, TicketCategoryType ticketCategory_C)
         {
             TicketId = ticketId_C;
             TicketPrice = ticketPrice_C;

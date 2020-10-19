@@ -11,7 +11,7 @@ namespace TicketReservationSystem
         // Private variables
 
         // Constructor
-        public Event(int eventId_C, EventHallType eventHall_C, DateTime eventDateTime_C, int ticketId_C, decimal ticketPrice_C, TicketCategoryType ticketCategory_C) : base(ticketId_C, ticketPrice_C, ticketCategory_C)
+        protected Event(int eventId_C, EventHallType eventHall_C, DateTime eventDateTime_C, int ticketId_C, decimal ticketPrice_C, TicketCategoryType ticketCategory_C) : base(ticketId_C, ticketPrice_C, ticketCategory_C)
         {
             EventId = eventId_C;
             EventHall = eventHall_C;
